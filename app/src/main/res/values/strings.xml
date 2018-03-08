@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tennis Score Keeper</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="sets">Sets</string>
+    <string name="games">Games</string>
+    <string name="points">Points</string>
+    <string name="playera">Player A</string>
+    <string name="playerb">Player B</string>
+    <string name="plus">+</string>
+    <string name="doublefaults">Double Faults</string>
+    <string name="aces">Aces</string>
+    <string name="unenforced">Unenforced</string>
+    <string name="enforced">Enforced</string>
+    <string name="reset">Reset</string>
+    <string name="background_image">Background Image</string>
+</resources>

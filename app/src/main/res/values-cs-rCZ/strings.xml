@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tenisové skóre</string>
+    <string name="one">1</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="sets">Sety</string>
+    <string name="games">Hry</string>
+    <string name="points">Body</string>
+    <string name="playera">Hráč A</string>
+    <string name="playerb">Hráč B</string>
+    <string name="plus">+</string>
+    <string name="doublefaults">Dvojchyby</string>
+    <string name="aces">Esa</string>
+    <string name="unenforced">Nezaviněné</string>
+    <string name="enforced">Zaviněné</string>
+    <string name="reset">Vymazat</string>
+    <string name="background_image">Obrázek pozadí</string>
+</resources>
