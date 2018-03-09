@@ -92,7 +92,7 @@
 
                 <TextView
                     android:id="@+id/set1_player_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -102,7 +102,7 @@
 
                 <TextView
                     android:id="@+id/set2_player_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -112,7 +112,7 @@
 
                 <TextView
                     android:id="@+id/set3_player_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -129,7 +129,7 @@
 
                 <TextView
                     android:id="@+id/sets_player_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -139,7 +139,7 @@
 
                 <TextView
                     android:id="@+id/games_player_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -149,7 +149,7 @@
 
                 <TextView
                     android:id="@+id/points_player_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -163,7 +163,7 @@
 
                 <TextView
                     android:id="@+id/set1_player_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -173,7 +173,7 @@
 
                 <TextView
                     android:id="@+id/set2_player_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -183,7 +183,7 @@
 
                 <TextView
                     android:id="@+id/set3_player_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -200,7 +200,7 @@
 
                 <TextView
                     android:id="@+id/sets_player_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -210,7 +210,7 @@
 
                 <TextView
                     android:id="@+id/games_player_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -220,7 +220,7 @@
 
                 <TextView
                     android:id="@+id/points_player_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -277,14 +277,14 @@
 
                 <TextView
                     android:id="@+id/double_faults_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -293,7 +293,7 @@
 
                 <TextView
                     android:id="@+id/double_faults_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
@@ -315,14 +315,14 @@
 
                 <TextView
                     android:id="@+id/aces_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -331,7 +331,7 @@
 
                 <TextView
                     android:id="@+id/aces_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
@@ -353,14 +353,14 @@
 
                 <TextView
                     android:id="@+id/unenforced_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -369,7 +369,7 @@
 
                 <TextView
                     android:id="@+id/unenforced_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
@@ -393,14 +393,14 @@
 
                 <TextView
                     android:id="@+id/enforced_a"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#00000000"
                     android:gravity="center"
@@ -409,7 +409,7 @@
 
                 <TextView
                     android:id="@+id/enforced_b"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:background="#00000000"
                     android:gravity="center"
